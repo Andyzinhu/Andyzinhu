@@ -1,7 +1,7 @@
 ## Olá desconhecido, sejá bem vindo ao meu pequeno universo de projetos!
  <div>
   <a href="https://github.com/Andyzinhu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andyzinhu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Andyzinhu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyzinhu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -25,4 +25,3 @@
   <a href="https://www.linkedin.com/in/andrew-souza-666b01187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  ## Mudando o mundo com uma linha de código por vez!
